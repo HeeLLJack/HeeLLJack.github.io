@@ -496,7 +496,7 @@ select{
   transition-duration: .25s;
 }
 
-@media (min-width: 1500px){
+@media (min-width: 1536px){
 	.hamburger-menu{
 		display: none;
 	}
